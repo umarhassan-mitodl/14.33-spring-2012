@@ -1,0 +1,30 @@
+leftnav:
+- identifier: efd7369a-fbff-8270-bf16-a4bc88d94412
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 56416b2e-289b-1e91-6277-1af7e2563e31
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 862683d2-f6cf-e771-8b65-0a525c1a162f
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: de670f3e-1b59-ae3f-97ab-b1e56ce79181
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 4e4c1d38-bc5c-345a-6493-62a05d0a5d90
+  name: Empirical Exercises
+  pageRef: /pages/assignments/empirical-exercises
+  parent: de670f3e-1b59-ae3f-97ab-b1e56ce79181
+  weight: 50
+- identifier: bdae3bb1-50fc-e0cc-511c-8d31760b9b57
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 60
+- identifier: 61ed4707-86b0-5e46-ea46-3d007d5458bf
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 70
