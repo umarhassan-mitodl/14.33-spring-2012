@@ -26,6 +26,7 @@
     "website": "14-33-economics-research-and-communication-spring-2012"
   },
   "course_title": "Economics Research and Communication",
+  "hide_download": true,
   "course_description": "This course will guide students through the process of forming economic hypotheses, gathering the appropriate data, analyzing them, and effectively communicating their results.\n",
   "department_numbers": [
     "14"
@@ -36,6 +37,7 @@
     "content": "f3489d62-d5aa-c441-fe35-6ba76ed697c7",
     "website": "14-33-economics-research-and-communication-spring-2012"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments"
   ],

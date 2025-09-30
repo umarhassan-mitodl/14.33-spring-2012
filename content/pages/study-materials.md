@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains handouts and other materials to help the students
   learn research methods.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -15,7 +17,7 @@ Research and Writing Resources
 
 {{% resource_link 032b4a1e-3748-8fce-c6bf-059576ce638e "Research and Communication in Economics: Resources. (PDF)" %}} (Courtesy of Katherine McNeil. Used with permission.)
 
-Neugeboren, Robert, and Mireille Jacobson. {{% resource_link "4e4e4ebd-4eed-4218-a3ed-caa59a2312c2" "\"Writing Economics.\" (PDF)" %}} The President and Fellows of Harvard University, 2001.
+Neugeboren, Robert, and Mireille Jacobson. ["Writing Economics." (PDF)](https://writingproject.fas.harvard.edu/files/hwp/files/writingeconomics.pdf) The President and Fellows of Harvard University, 2001.
 
 Stata® Tools
 ------------
